@@ -1,7 +1,7 @@
 # Ex02 Django ORM Web Application
 ## Developed by : AKASH G
 ## Register No. : 212224100004
-## Date: 22.11.2025
+## Date: 28.08.2025
 
 ## AIM
 To develop a Django application to store and retrieve data from Car Inventory Database using Object Relational Mapping(ORM).
