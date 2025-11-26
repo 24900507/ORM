@@ -56,7 +56,8 @@ class Car(models.Model):
 ## OUTPUT
 
 <img width="1440" height="900" alt="Screenshot 2025-11-26 at 11 46 51 PM" src="https://github.com/user-attachments/assets/67804671-6130-4e1d-96c9-6af6926bc90e" />
-<img width="1440" height="900" alt="Screenshot 2025-11-26 at 11 33 56 PM" src="https://github.com/user-attachments/assets/3f32e169-3ad3-4949-8c11-ce522e9e8b28" />
+<img width="1440" height="900" alt="Screenshot 2025-11-26 at 11 54 56 PM" src="https://github.com/user-attachments/assets/da490f2f-fb40-4c2c-80c5-5b250ebcab9b" />
+
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
