@@ -1,4 +1,4 @@
-# Ex02 Django ORM Web Application
+# EX 02 Django ORM Web Application
 ## Developed by : AKASH G
 ## Register No. : 212224100004
 ## Date: 28.08.2025
@@ -55,8 +55,8 @@ class Car(models.Model):
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
-
+<img width="1440" height="900" alt="Screenshot 2025-11-26 at 11 46 51 PM" src="https://github.com/user-attachments/assets/67804671-6130-4e1d-96c9-6af6926bc90e" />
+<img width="1440" height="900" alt="Screenshot 2025-11-26 at 11 33 56 PM" src="https://github.com/user-attachments/assets/3f32e169-3ad3-4949-8c11-ce522e9e8b28" />
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
